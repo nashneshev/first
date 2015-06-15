@@ -1,2 +1,3 @@
-# first
-Just an initial repository
+Who loves making up stories?
+
+Once I went to a ...
